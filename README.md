@@ -1,6 +1,8 @@
 # regTermTest
 Wald test for a term in a regression model Use regTermTest (survey) With (In) R Software
 
+https://www.youtube.com/watch?v=8UjAq112Kow
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
